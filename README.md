@@ -14,6 +14,7 @@ The goal of this project is to build a domain-adapted NER system for classical a
 ---
 
 ## 🔍 Repository Structure
+```
 EvaHan-GujiRoBERTa-NER/
 ├── data/             # Training and test datasets
 ├── notebooks/        # Jupyter notebooks for EDA, model training and analysis
@@ -22,6 +23,7 @@ EvaHan-GujiRoBERTa-NER/
 ├── src/              # Source code (model, utils, config, trainer, etc.)
 ├── README.md         # This file
 ├── requirements.txt  # Python dependencies
+```
 
 ---
 
